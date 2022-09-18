@@ -378,12 +378,22 @@ os.rename(archivo, nombre_nuevo)
 archivo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\Season21"
 nombre_nuevo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\Temporada 3 cap 3"
 os.rename(archivo, nombre_nuevo)
+####
+
+archivo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\Season22"
+nombre_nuevo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\temporada 4 cap 3"
+os.rename(archivo, nombre_nuevo)
+####
+archivo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\temporada 4 cap 3\\PreviewImages"
+nombre_nuevo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\temporada 4 cap 3\\Vista previa"
+os.rename(archivo, nombre_nuevo)
 
 ####
 archivo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\Temporada 3 cap 3\\PreviewImages"
 nombre_nuevo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\Temporada 3 cap 3\\Vista previa"
 os.rename(archivo, nombre_nuevo)
 ####
+
 
 directorio4 = 'C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga' +textorandom+'\\Temporada8\\DragonNinjaLoading'
 directorio5 = 'C:\\Program Files\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga ' +textorandom+'\\Temporada7\\NeonCatLoading'
