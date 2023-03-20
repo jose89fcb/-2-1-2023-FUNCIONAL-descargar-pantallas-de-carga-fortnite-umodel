@@ -5,6 +5,7 @@
 <br>
 <br>
 3.-) instalar <b>umodel_64.exe<b> y <b>SDL2_64.dll</b> en la siguiente ruta: C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks
+  <br>
   (Borra _64 quedaria asi: umodel.exe para qué funcione)
 <br>
 <br>
