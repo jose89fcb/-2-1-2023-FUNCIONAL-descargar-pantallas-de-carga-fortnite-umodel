@@ -58,7 +58,7 @@ def set_console_font(font_name="Cascadia Code SemiBold", size=11):
 
 set_console_font("Cascadia Code SemiBold", 10)
  
-url = requests.get('https://fortnitecentral.gmatrixgames.ga/api/v1/aes')
+url = requests.get('https://fortnitecentral.genxgames.gg/api/v1/aes')
 AES = json.loads(url.text)
  
  
@@ -383,6 +383,21 @@ archivo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\
 nombre_nuevo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\temporada 1 capitulo 4"
 os.rename(archivo, nombre_nuevo)
 ####
+
+
+###
+archivo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\Season24"
+nombre_nuevo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\Temporada 2  capitulo 4"
+os.rename(archivo, nombre_nuevo)
+###
+
+###
+archivo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\Temporada 2  capitulo 4\\PreviewImages"
+nombre_nuevo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\Temporada 2  capitulo 4\\Vista previa"
+os.rename(archivo, nombre_nuevo)
+##
+
+
 archivo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\temporada 1 capitulo 4\\PreviewImages"
 nombre_nuevo = "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\PantallasDeCargaFn\\Game\\2dAssets\\pantallasDeCarga " +textorandom+"\\temporada 1 capitulo 4\\Vista previa"
 os.rename(archivo, nombre_nuevo)
