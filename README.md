@@ -1,7 +1,7 @@
 1.-) Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-370/
 <br>
 <br>
-2.-) Descargar umodel en https://www.patreon.com/posts/fortnite-v23-00-76561581 (Versión 23.00)
+2.-) Descargar umodel en https://www.patreon.com/posts/79927886 (Versión 24.00)
 <br>
 <br>
 3.-) instalar <b>umode.exe SDL2.dll</b> y <b>SDL2_64.dll</b> en la siguiente ruta: C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks
